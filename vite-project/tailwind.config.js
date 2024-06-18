@@ -7,7 +7,7 @@ export default {
     },
     extend: {
       backgroundImage: {
-        gradientBg: "url('/src/assets/img/bg.png')",
+        gradientBg: "url('/src/assets/img/bg-img.jpg')",
       },
       keyframes: {
         shake: {
